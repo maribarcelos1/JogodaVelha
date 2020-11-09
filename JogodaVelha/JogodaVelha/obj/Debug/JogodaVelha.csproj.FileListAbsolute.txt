@@ -1,0 +1,10 @@
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe.config
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.pdb
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csprojAssemblyReference.cache
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Form1.resources
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.Properties.Resources.resources
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csproj.GenerateResource.cache
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csproj.CoreCompileInputs.cache
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.exe
+D:\Aulas C#\Jogodavelha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.pdb
